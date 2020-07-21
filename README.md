@@ -9,6 +9,7 @@
   - [Multimedia streaming](#multimedia-streaming)
   - [Miscellaneous projects](#miscellaneous-projects)
 - [Container utilities (not specific to the Unreal Engine)](#container-utilities-not-specific-to-the-unreal-engine)
+- [Research-related projects](#research-related-projects)
 - [Other utilities](#other-utilities)
 
 
@@ -69,6 +70,17 @@ You can find more details regarding my education and employment history in my [c
 - [**docker-shell**](https://github.com/adamrehn/docker-shell): command-line tool that makes it quick and easy to start interactive shells inside both Windows and Linux containers while automatically bind-mounting the current working directory from the host system. Automatically activates common features when supported by the host system (e.g GPU acceleration) and highly configurable using Docker image labels. See the [**developer-images**](https://github.com/adamrehn/developer-images) repository for examples of container images designed for use with docker-shell.
 
 - [**dll-diagnostics**](https://github.com/adamrehn/dll-diagnostics): command-line tool that provides functionality to assist in identifying the DLL dependencies of an application or library and diagnosing dependency loading issues. Primarily intended for use when migrating existing applications to Windows containers, where traditional GUI-based tools are unavailable.
+
+
+## Research-related projects
+
+- [**charcoal-morphotypes**](https://github.com/adamrehn/charcoal-morphotypes): source code for the charcoal particle segmentation and classification system presented in the journal article: [Emma Rehn, Adam Rehn, and Aidan Possemiers. Fossil charcoal particle identification and classification by two convolutional neural networks. *Quaternary Science Reviews*, 226:106038, 2019.](https://www.sciencedirect.com/science/article/pii/S0277379119305074)
+
+- [**VideoAnnotator**](https://github.com/adamrehn/VideoAnnotator): GUI tool to facilitate annotation of video files with custom metadata that can then be ingested by data processing pipelines and used as training data for machine learning algorithms. Primarily intended for use by artificial intelligence and computer vision researchers.
+
+- [**Taxonomist**](https://github.com/adamrehn/taxonomist): GUI tool to facilitate manually categorising images into classes so that they can be used as training data for image classification algorithms. Primarily intended for use by artificial intelligence and computer vision researchers.
+
+- [**ClimateQuery**](https://github.com/adamrehn/ClimateQuery): GUI tool to facilitate processing and querying weather data obtained from the [Australian Bureau of Meteorology](http://www.bom.gov.au/). Allows researchers to extract data for specific weather stations and time periods, and then run queries against the extracted datasets to produce summarised data that is suitable for further statistical analysis.
 
 
 ## Other utilities
