@@ -16,7 +16,7 @@
 
 I'm Dr Adam Rehn, a scientific researcher and software developer living in [Cairns, Australia](https://www.google.com.au/maps/place/Cairns+QLD). I run the applied research company [TensorWorks](https://tensorworks.com.au) and work as a university lecturer on a part-time basis. To the best of my knowledge, I am considered the world's foremost expert on Unreal Engine containers, as a result of my role as creator and primary maintainer of the projects and initiatives listed in the [Unreal Engine projects](#unreal-engine-projects) section below. I am passionate about automation, tooling and infrastructure, with a current focus on [integrating the Unreal Engine with cloud native technologies](https://adamrehn.com/articles/cloud-native-unreal-engine-vision-and-status/).
 
-You can find more details regarding my education and employment history in my [curriculum vitae](https://adamrehn.com/curriculum-vitae). I am not actively seeking employment at the current time.
+You can find more details regarding my education and employment history in my [curriculum vitae](https://adamrehn.com/curriculum-vitae). I am not actively seeking new employment opportunities at the current time.
 
 
 ## Unreal Engine projects
